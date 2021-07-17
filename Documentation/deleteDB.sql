@@ -1,0 +1,2 @@
+
+DROP TABLE `covid_19_development`.`city`, `covid_19_development`.`covid_results`, `covid_19_development`.`hospitals`, `covid_19_development`.`patients`, `covid_19_development`.`state`, `covid_19_development`.`vaccinated`, `covid_19_development`.`vaccine`;
